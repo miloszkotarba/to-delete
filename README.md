@@ -1,7 +1,7 @@
 
 # Task Manager Api
 
-Node.js Task Manager Api coded in Node Programming Lecture.
+Node.js Task Manager Api coded for fun
 
 
 ## Run Locally
